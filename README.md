@@ -1,2 +1,8 @@
-# the-lesson-to-unlearn-cn
-The Chinese translation of The Lesson to Unlearn by Paul Graham
+# [The Lesson to Unlearn](http://paulgraham.com/lesson.html)
+# 一课方知 —— 那个应该忘记的学习过的东西
+
+在学校中你学习到的最糟糕的事情并不是具体的某一门课，而是学会了如何获得好的成绩。
+
+当我在大学的时候，一个毕业生曾经特别诚恳地告诉我一个道理，他从来不在意在课上能够得到什么成绩，而只在意到底学到了什么。这个事情一直在我的脑海中，因为这是我第一次听到有人会这样说。
+
+与大多数学生相同，如何衡量我的学习成果完全控制着我在大学中的学习行为。我当时非常认真，对大多数的课程都非常感兴趣，同时也很努力。
